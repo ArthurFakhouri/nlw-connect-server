@@ -31,7 +31,7 @@ O projeto é um site responsivo de inscrição e indicação para eventos, Esse 
 - [ ✔ ] A aplicação deve poder visualizar posição do ranking do inscrito;
 - [ ✔ ] A aplicação deve poder visualizar o ranking;
 
-## Comandos de execução
+## 🔧 Comandos de execução
 
 ### Executar em modo de desenvolvimento
 npm run dev
