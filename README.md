@@ -1,5 +1,5 @@
 ### 🌐 PT-BR
-#### [EN-US](https://github.com/ArthurFakhouri/NLW-Journey-Server-Node/blob/master/READMEENUS.md)
+#### [EN-US](https://github.com/ArthurFakhouri/nlw-connect-server/blob/main/READMEENUS.md)
 
 <div align="center">
     <img alt="nlw-co" title="#nlw-co" src=".github/favicon.webp" width="100px" />
